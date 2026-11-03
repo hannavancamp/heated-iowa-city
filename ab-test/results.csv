@@ -1,0 +1,300 @@
+trial,version,timestamp_utc,date,model,effort,interface,fresh_incognito_chat,prompt_file,rating,valid,response
+1,A,2026-11-03T19:00:20.918Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-a.txt,6,yes,"6
+
+The first class at Riverbend is free and the page lays out a cheap path through three studios, though the “free” part mostly applies to one class and the other offers still cost $25 to $30."
+2,B,2026-11-03T19:00:45.501Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-b.txt,6,yes,"6
+
+The free first class at Riverbend plus cheap intro weeks speak directly to my budget, though I would want to check the auto-renewal and cancellation terms before booking, and the “free” offer is really just one class."
+3,A,2026-11-03T19:00:52.786Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-a.txt,6,yes,"6
+
+The free first class at Riverbend and the $25 intro week at Ember are exactly what a broke student wants, and the stagger-the-offers tip makes it feel doable, though I would hesitate a little over the auto-renew warning and the fact that the free Friday class is only monthly."
+4,B,2026-11-03T19:01:00.087Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-b.txt,6,yes,"6
+
+The free first class at Riverbend and the $25 and $30 intro weeks fit my budget, and the tip about stacking offers is useful, but I would still want to check the auto-renewal and cancellation terms before handing over a card."
+5,A,2026-11-03T19:01:07.887Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-a.txt,6,yes,"6
+
+Riverbend’s free first class and the cheap intro offers speak directly to my budget worry, and the stacking plan (about three and a half weeks across three studios for $55) makes trying it feel low-risk, though I would hold off on the paid offers until I liked the free class, and I would need to check the auto-renewal terms first."
+6,B,2026-11-03T19:01:15.189Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-b.txt,6,yes,"6
+
+The free first class at Riverbend and the cheap stacked intro offers (about $55 total for three and a half weeks) fit my budget, and the page is clear about how to try studios without committing, though I would still want to check the auto-renewal terms before booking."
+7,A,2026-11-03T19:01:22.547Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-a.txt,6,yes,"6
+
+The first class at Riverbend Heat Studio is free, and the sequenced intro offers get me a few weeks of classes for $55, so I would very likely book that first free class, though the auto-renewal warning and the “Heated” site pushing studios make me want to read the fine print before committing to anything paid."
+8,B,2026-11-03T19:01:29.857Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-b.txt,6,yes,"6
+A free first class at Riverbend plus cheap intro weeks is exactly what a broke student wants, though the auto-renew warning and the fact that only one class is truly free keep me from a 7."
+9,B,2026-11-03T19:01:37.179Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-b.txt,6,yes,"6
+
+A free first class at Riverbend plus cheap intro weeks is exactly what a broke student wants, and the stacking tip makes trying it feel low-risk, though I would still hesitate a little about the auto-renew warning and whether I would actually show up on a specific schedule."
+10,A,2026-11-03T19:01:44.474Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-a.txt,6,yes,"6
+
+The free first class at Riverbend plus the $25 and $30 intro weeks fit my budget and answer my “is this worth paying for” worry, though I would still want to check auto-renewal terms before signing up."
+11,A,2026-11-03T19:01:51.794Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-a.txt,6,yes,"6
+
+The free first class at Riverbend and the stackable intro offers ($55 for about three and a half weeks) fit a tight budget well, though the auto-renewal warning and the fact that most deals are time-limited give me a little hesitation before committing."
+12,B,2026-11-03T19:01:59.123Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-b.txt,6,yes,"6
+
+The free first class at Riverbend plus the $25 and $30 intro weeks make this very doable on my budget, but I would still have to hand over a card and watch for auto-renewal, so I am not quite a “definitely.”"
+13,B,2026-11-03T19:02:06.436Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-b.txt,6,yes,"6
+
+The free first class at Riverbend plus the $25 and $30 intro weeks make this feel low-risk on a student budget, but the page’s own warnings about auto-renewal and late-cancel charges make me want to check the fine print before I book."
+14,B,2026-11-03T19:02:13.753Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-b.txt,6,yes,"6
+
+The free first class at Riverbend plus the cheap intro weeks make it easy to try hot yoga on a tight budget, though I would want to check the auto-renewal and cancellation terms before booking."
+15,B,2026-11-03T19:02:21.069Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-b.txt,6,yes,"6
+
+A free first class at Riverbend plus a $25 intro week at Ember is very doable on a student budget, and the sequencing tip makes it feel low-risk, though the auto-renewal warning and “free” only covering one class keep me from being fully sold."
+16,A,2026-11-03T19:02:28.410Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-a.txt,6,yes,"6
+
+The free first class at Riverbend, plus the cheap intro weeks and the student discount, make it easy for a broke student to try hot yoga with little risk, though I would still want to check the auto-renewal and cancellation terms before booking."
+17,A,2026-11-03T19:02:35.724Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-a.txt,6,yes,"6
+
+The free first class at Riverbend and the stackable intro deals fit my budget, though the auto-renew warning and the fact that I have never done hot yoga keep me from a 7."
+18,B,2026-11-03T19:02:43.542Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-b.txt,6,yes,"6
+
+The free first class at Riverbend and the stackable intro offers (about $55 for three and a half weeks) fit my budget, and the tips on mats and auto-renewal make me trust it, but I would still need to check class times and I am a bit wary of the paid intro weeks."
+19,A,2026-11-03T19:02:50.852Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-a.txt,6,yes,"6
+
+The free first class at Riverbend plus the cheap intro weeks make this feel low-risk for a broke student, though I would still need to check the auto-renewal and cancellation fine print before committing."
+20,A,2026-11-03T19:02:58.151Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-a.txt,6,yes,"6
+
+Riverbend’s free first class removes the cost barrier for a broke student who has never tried this, and the step-by-step plan for stacking intro offers is practical, though I would still want to check the auto-renewal and late-cancel fine print before committing."
+21,A,2026-11-03T19:03:05.450Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-a.txt,6,yes,"6
+
+The free first class at Riverbend plus the $25 and $30 intro weeks make trying it very doable on a student budget, though I would still want to check auto-renewal terms before booking anything."
+22,A,2026-11-03T19:03:12.752Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-a.txt,6,yes,"6
+
+The free first class at Riverbend and the sequenced intro offers (about $55 for three and a half weeks) make trying it feel low-risk on a student budget, though the paid offers and the auto-renewal warning keep me from a 7."
+23,A,2026-11-03T19:03:20.064Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-a.txt,6,yes,"6
+
+The free first class at Riverbend plus the $0 to $10 community classes make this feel low-risk on my budget, though I would still want to check the auto-renewal and late-cancel details before booking."
+24,B,2026-11-03T19:03:27.887Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-b.txt,6,yes,"6
+
+The free first class at Riverbend plus the cheap intro weeks at Ember and Prairie Flame make trying it feel low-risk on a tight budget, but the free offer is only one class and the other options still cost money, so I would likely book the free one and then decide."
+25,A,2026-11-03T19:03:35.183Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-a.txt,6,yes,"6
+
+The free first class at Riverbend plus the cheap intro weeks and student discount make this easy to try on a tight budget, though I would still want to check the auto-renew and cancellation terms before booking."
+26,A,2026-11-03T19:03:42.480Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-a.txt,6,yes,"6
+
+The first class at Riverbend is free and the $55 stacked plan covers over three weeks, which fits my budget, though the “free” offers are mostly just trials and I would want to check for auto-renewal before booking."
+27,A,2026-11-03T19:03:49.786Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-a.txt,6,yes,"6
+
+The free first class at Riverbend plus the $25 and $30 intro weeks make trying it feel low-risk on a tight budget, though the auto-renew warning and the fact that only one class is truly free keep me from a 7."
+28,B,2026-11-03T19:03:57.094Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-b.txt,6,yes,"6
+
+A free first class at Riverbend plus cheap intro weeks is exactly what I was hoping to find on a student budget, though the page’s own warning about auto-renewing offers and late-cancel fees makes me want to read the fine print before I commit."
+29,B,2026-11-03T19:04:04.413Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-b.txt,6,yes,"6
+
+A free first class at Riverbend plus cheap intro weeks speaks directly to my budget, though I would want to check that nothing auto-renews into a paid membership before I book."
+30,B,2026-11-03T19:04:11.740Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-b.txt,6,yes,"6
+
+The free first class at Riverbend and the stackable $25 and $30 intro weeks speak directly to my budget, though I would hesitate a bit over the possible auto-renewal into a membership and the fact that the free class is only one session."
+31,A,2026-11-03T19:04:19.049Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-a.txt,6,yes,"6
+
+Riverbend’s free first class and the free first Friday option remove the cost risk for a broke student, and the $55 plan for three and a half weeks of classes is easy to follow, though I would still worry a little about auto-renewal and about walking into a hot room alone for the first time."
+32,B,2026-11-03T19:04:26.382Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-b.txt,6,yes,"6
+
+The free first class at Riverbend plus the $25 and $30 intro weeks make this easy to try on a tight budget, but I would still want to check the auto-renewal and cancellation fine print before booking."
+33,A,2026-11-03T19:04:33.678Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-a.txt,6,yes,"6
+
+The free first class at Riverbend and the $55 plan to try three studios over three and a half weeks fit my budget well, though I would still be wary of an intro offer that auto-renews into a membership."
+34,A,2026-11-03T19:04:41.474Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-a.txt,6,yes,"6
+
+The free first class at Riverbend plus the $25 and $30 intro weeks make trying it feel low-risk on a tight budget, though I would still want to check for auto-renewal and might hesitate over the awkwardness of a first class."
+35,A,2026-11-03T19:04:48.792Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-a.txt,6,yes,"6
+
+The free first class at Riverbend and the $25 intro week fit my budget and make trying hot yoga low-risk, though I would want to confirm the auto-renewal terms and the student discount only helps once I am already committed."
+36,B,2026-11-03T19:04:56.106Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-b.txt,6,yes,"6
+
+The free first class at Riverbend and the stackable $55 intro plan are exactly what a broke student wants, though I would hesitate a bit over the auto-renew warning and the fact that the free class is only one session."
+37,A,2026-11-03T19:05:03.905Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-a.txt,6,yes,"6
+
+The free first class at Riverbend and the $5-per-class Ember week fit my budget, and the stepped plan of about 3.5 weeks across three studios for $55 is a clear path, though the auto-renew warning and the fact that the free-class and community-class details are spread across the page make me want to double check the terms before I commit."
+38,A,2026-11-03T19:05:11.222Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-a.txt,6,yes,"6
+
+The free first class at Riverbend and the stackable intro offers ($55 for about three and a half weeks) fit my budget and make trying hot yoga feel low-risk, though I would still want to check the auto-renewal and cancellation details before booking."
+39,B,2026-11-03T19:05:18.541Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-b.txt,6,yes,"6
+
+The free first class at Riverbend plus the $25 and $30 intro weeks make this very doable on my budget, but I am still a little wary of auto-renewing into a membership and of paying anything at all before I know I like it."
+40,B,2026-11-03T19:05:25.848Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-b.txt,6,yes,"6
+
+The free first class at Riverbend plus a $25 intro week gets me real trial time on a tight budget, but I would want to check the auto-renewal terms and the fact that the page mostly sends me to other sites before I commit."
+41,B,2026-11-03T19:05:33.196Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-b.txt,6,yes,"6
+
+The free first class at Riverbend plus the $25 and $30 intro weeks make this feel low-risk on my budget, but the page does not say what the free class involves beyond booking online, and I would want to check the auto-renewal fine print before committing."
+42,B,2026-11-03T19:05:40.500Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-b.txt,6,yes,"6
+
+The free first class at Riverbend plus a $25 intro week fits my budget, and the tip about stacking offers makes it feel doable, but I would still want to confirm the auto-renewal terms before putting in my card."
+43,A,2026-11-03T19:05:47.806Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-a.txt,6,yes,"6
+
+The page gives me a free first class at Riverbend plus a clear path to try three studios for $55, which fits my budget, though I would still want to confirm the auto-renewal and cancellation details before booking."
+44,B,2026-11-03T19:05:55.101Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-b.txt,6,yes,"6
+
+The free first class at Riverbend and the $25 intro week fit my budget and let me try it with almost no risk, though the auto-renew warning makes me want to read the fine print before I enter a card number."
+45,B,2026-11-03T19:06:02.394Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-b.txt,6,yes,"6
+
+The free first class at Riverbend and the $25 intro week make it easy to try without a big commitment, though I would want to confirm the intro offers do not auto-renew into a membership before I put my card down."
+46,B,2026-11-03T19:06:10.215Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-b.txt,6,yes,"6
+
+The free first class at Riverbend plus the cheap intro weeks make this very doable on a student budget, but I would still want to confirm the auto-renewal terms before handing over a card."
+47,A,2026-11-03T19:06:18.060Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-a.txt,6,yes,"6
+
+The page gives me a free first class at Riverbend and a $25 intro week at Ember, so I can try hot yoga at almost no cost, but the offers may auto-renew and the “free” path really leads to about $55 total, which keeps me from a 7."
+48,B,2026-11-03T19:06:25.374Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-b.txt,6,yes,"6
+
+The free first class at Riverbend plus the cheap $25 and $30 intro weeks speak directly to my budget, and the stacking tip is useful, but I would want to check the auto-renewal fine print before giving anyone my card."
+49,A,2026-11-03T19:06:32.680Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-a.txt,6,yes,"6
+
+The first class at Riverbend is free and the other intro offers are cheap, so I would book at least the free one, but I would hesitate on the paid ones and want to check the auto-renewal terms first."
+50,A,2026-11-03T19:06:40.029Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-a.txt,6,yes,"6
+
+The page lays out a clear path to try hot yoga for free (Riverbend’s free first class) or very cheaply, and I would book that free class right away, though the fine print about auto-renewal and the $55 total for the full sequence makes me a little cautious about the paid intro offers."
+51,B,2026-11-03T19:06:47.334Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-b.txt,6,yes,"6
+
+The free first class at Riverbend plus cheap intro weeks fits my budget, but I would want to check the auto-renewal and cancellation details before giving any studio my card."
+52,B,2026-11-03T19:06:54.625Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-b.txt,6,yes,"6
+
+The free first class at Riverbend plus the cheap intro weeks make this feel doable on a student budget, though the auto-renewal warning and the fact that only one class is truly free keep me from a 7."
+53,B,2026-11-03T19:07:01.933Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-b.txt,6,yes,"6
+
+The free first class at Riverbend and the $25 intro week are exactly what I would want on a tight budget, though I would hesitate a bit over the auto-renewal risk and the fact that the best free deals are limited to one class or one Friday a month."
+54,A,2026-11-03T19:07:09.226Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-a.txt,6,yes,"6
+
+The Riverbend free first class and the $25 intro week fit my budget, and the tip about chaining the offers for about $55 over three and a half weeks makes it feel doable, though I would still want to check the auto-renewal and cancellation details before booking."
+55,B,2026-11-03T19:07:16.525Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-b.txt,6,yes,"6
+
+A free first class at Riverbend plus the $25 and $30 intro weeks make this very doable on a student budget, though I would still want to check the auto-renewal terms before entering a card."
+56,A,2026-11-03T19:07:23.827Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-a.txt,6,yes,"6
+
+The free first class at Riverbend plus the cheap intro weeks speak directly to my budget worry, and I would probably book the free one, but I would still want to check for auto-renewal and wonder whether a Friday-evening class fits my schedule."
+57,A,2026-11-03T19:07:31.163Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-a.txt,6,yes,"6
+
+The free first class at Riverbend plus the cheap $25 and $30 intro weeks speak directly to my budget worry, though I would hold back from a perfect score because the page is a guide rather than a studio and I would still want to check the auto-renewal and cancellation details before booking."
+58,B,2026-11-03T19:07:38.464Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-b.txt,6,yes,"6
+
+The free first class at Riverbend plus a $25 intro week fit my budget and the page makes the sequence of offers clear, though I would want to check for auto-renewal before entering my card."
+59,A,2026-11-03T19:07:45.768Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-a.txt,6,yes,"6
+
+The free first class at Riverbend plus the $25 intro week make it easy to try without much risk, though I would want to check the auto-renewal and cancellation details before booking anything."
+60,A,2026-11-03T19:07:53.102Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-a.txt,6,yes,"6
+
+The free first class at Riverbend plus the $25 and $30 intro weeks fit my budget and answer my “is this worth it” question, though the auto-renew warning and the fact that Riverbend’s free class is the main real zero-cost option keep me from a 7."
+61,A,2026-11-03T19:08:00.401Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-a.txt,6,yes,"6
+
+The free first class at Riverbend plus the cheap intro weeks speak directly to my budget worry, though I would hesitate a little because of the auto-renewal warning and the fact that the page is an advice guide rather than a direct booking page."
+62,A,2026-11-03T19:08:07.702Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-a.txt,6,yes,"6
+
+The free first class at Riverbend plus the $25 intro week make it easy to try hot yoga on my budget, though I would still want to check the auto-renewal and cancellation terms before booking."
+63,B,2026-11-03T19:08:15.056Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-b.txt,6,yes,"6
+
+The free first class at Riverbend and the cheap intro weeks are exactly what I was hoping to find, but I would hesitate a bit because the page does not say what the first class feels like, and the $25 and $30 offers still cost money I would have to think about."
+64,A,2026-11-03T19:08:22.369Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-a.txt,6,yes,"6
+
+The free first class at Riverbend plus the $25 and $30 intro offers make it easy to try hot yoga on a student budget, though I would still have to deal with the auto-renewal and late-cancel warnings before committing."
+65,A,2026-11-03T19:08:29.681Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-a.txt,6,yes,"6
+
+The free first class at Riverbend plus the $25 and $30 intro offers make it easy to try hot yoga for almost nothing, though I would still hesitate a bit as a first-timer and would want to check that the intro offers do not auto-renew into a membership."
+66,A,2026-11-03T19:08:36.998Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-a.txt,6,yes,"6
+
+The free first class at Riverbend plus the $25 intro week and student discounts make this feel low-risk on my budget, though I would still want to check the auto-renewal and cancellation details before booking."
+67,A,2026-11-03T19:08:44.301Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-a.txt,6,yes,"6
+
+The page gives me a free first class at Riverbend plus a stack of cheap intro offers, so the money barrier mostly disappears, though I would still want to check whether the intro offers auto-renew before committing."
+68,B,2026-11-03T19:08:52.096Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-b.txt,6,yes,"6
+
+The free first class at Riverbend plus the $25 and $30 intro weeks are appealing on a tight budget, but the free class is a single session and the page’s own “Free Hot Yoga” framing oversells it a bit, so I would book the free one and stay cautious about spending beyond that."
+69,A,2026-11-03T19:08:59.384Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-a.txt,6,yes,"6
+
+The free first class at Riverbend plus the $25 intro week make this feel low-risk for a broke student, though I would still want to check the auto-renewal and cancellation terms before booking."
+70,A,2026-11-03T19:09:06.683Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-a.txt,6,yes,"6
+
+The free first class at Riverbend, the pay-what-you-can Sunday class, and the $55 plan for about three and a half weeks of classes fit a tight budget, but I am held back by not knowing what hot yoga feels like and by the auto-renewal warning."
+71,A,2026-11-03T19:09:13.982Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-a.txt,6,yes,"6
+
+The free first class at Riverbend and the $25 intro week at Ember fit a student budget, so I would likely book one, but the auto-renewal and late-cancel warnings make me want to read the fine print before I enter a card."
+72,B,2026-11-03T19:09:21.357Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-b.txt,6,yes,"6
+
+The free first class at Riverbend and the $25 and $30 intro weeks fit my budget, and the tip about chaining the offers is useful, but I would still want to confirm the auto-renewal terms before booking anything."
+73,B,2026-11-03T19:09:28.694Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-b.txt,6,yes,"6
+
+A free first class at Riverbend plus cheap intro weeks is exactly what a broke student wants, though I would be wary of auto-renewing offers and I am not sure about the sweaty, unfamiliar setting."
+74,B,2026-11-03T19:09:35.990Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-b.txt,6,yes,"6
+
+A free first class at Riverbend plus a cheap, stackable intro-week plan fits my budget well, though the auto-renew warning and the fact that only one class is truly free keep me from a 7."
+75,B,2026-11-03T19:09:43.299Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-b.txt,6,yes,"6
+
+The free first class at Riverbend and the $25 intro week are appealing for my budget, but the page is a bit long and I would want to confirm the details and auto-renewal terms before actually booking."
+76,A,2026-11-03T19:09:50.637Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-a.txt,6,yes,"6
+
+The free first class at Riverbend and the $25 intro week at Ember fit a tight budget well, though the auto-renewal warning and the fact that I have never tried hot yoga keep me from a 7."
+77,B,2026-11-03T19:09:57.945Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-b.txt,6,yes,"6
+
+The free first class at Riverbend plus cheap intro weeks fits my budget and removes most of the risk, but I would still want to check whether the intro offers auto-renew before I commit."
+78,B,2026-11-03T19:10:05.267Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-b.txt,6,yes,"6
+
+The free first class at Riverbend plus the cheap intro weeks make this low-risk for my budget, though I would still want to check the auto-renewal and cancellation details before I commit."
+79,B,2026-11-03T19:10:12.582Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-b.txt,6,yes,"6
+
+The free first class at Riverbend and the stackable intro offers (about $55 for three and a half weeks) fit my budget well, though I would still hesitate a bit over the auto-renew risk and the heat being new to me."
+80,A,2026-11-03T19:10:19.884Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-a.txt,6,yes,"6
+
+The free first class at Riverbend plus the cheap intro weeks directly solve my budget problem, and the page clearly lays out how to try three studios for $55, though the auto-renewal and cancellation warnings make me a little cautious about committing."
+81,A,2026-11-03T19:10:27.198Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-a.txt,6,yes,"6
+
+The free first class at Riverbend plus the sequence of cheap intro offers speaks directly to my budget worry, but I would still want to check the auto-renewal and cancellation details before committing."
+82,B,2026-11-03T19:10:34.511Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-b.txt,6,yes,"6
+
+The free first class at Riverbend plus the cheap $25 and $30 intro weeks make trying it realistic on my budget, though the auto-renewal warning and the fact that only one option is truly free keep me from a 7."
+83,B,2026-11-03T19:10:41.831Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-b.txt,6,yes,"6
+
+The free first class at Riverbend and the $25 intro week make this feel low-risk on a tight budget, though I would want to confirm the auto-renewal and cancellation terms before booking."
+84,B,2026-11-03T19:10:49.149Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-b.txt,6,yes,"6
+
+The free first class at Riverbend plus cheap $25 and $30 intro weeks make trying it feel low-risk on my budget, though I would want to check the auto-renewal and cancellation fine print before committing."
+85,B,2026-11-03T19:10:56.450Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-b.txt,6,yes,"6
+
+The free first class at Riverbend plus cheap $25 and $30 intro weeks speak directly to my budget, though I would want to check the auto-renewal and cancellation details before committing."
+86,B,2026-11-03T19:11:03.746Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-b.txt,6,yes,"6
+
+Riverbend’s free first class and the $25 and $30 intro weeks fit my budget, and the sequencing tip makes it feel doable, though the auto-renewal warning and the fact that only one class is truly free keep me from a 7."
+87,A,2026-11-03T19:11:11.067Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-a.txt,6,yes,"6
+
+A free first class at Riverbend plus a $25 intro week and a $30 two-week intro make this feel low-risk on a student budget, though I would still want to check the auto-renewal and cancellation details before committing."
+88,A,2026-11-03T19:11:18.389Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-a.txt,6,yes,"6
+
+Riverbend’s free first class and the $0 to $10 Sunday community class remove most of the financial risk for a broke student, though I would still hesitate a bit because the page itself is a third-party guide and I am not sure I would actually follow through on booking."
+89,B,2026-11-03T19:11:25.709Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-b.txt,6,yes,"6
+
+It offers a genuinely free first class plus cheap intro weeks and a student discount, which fits my budget, though the auto-renew warning and the “free” label applying to only one studio make me want to read the fine print before booking."
+90,A,2026-11-03T19:11:33.018Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-a.txt,6,yes,"6
+
+The free first class at Riverbend plus the $25 intro week and the sliding-scale Sunday community class make trying it feel low-risk on a tight budget, though I would still want to check the auto-renewal and late-cancel fine print before committing."
+91,A,2026-11-03T19:11:40.847Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-a.txt,6,yes,"6
+
+Riverbend’s free first class removes the cost barrier entirely, and the stacked intro offers plus the $0 to $10 Sunday community class make it feel doable on a student budget, though the auto-renew warning and the fact that only one class is truly free keep me from a 7."
+92,A,2026-11-03T19:11:48.159Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-a.txt,6,yes,"6
+
+The free first class at Riverbend plus the $25 intro week make it easy to try hot yoga without committing, though I would still want to check the cancellation and auto-renewal terms before booking."
+93,B,2026-11-03T19:11:55.465Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-b.txt,6,yes,"6
+
+Free first class at Riverbend plus a $25 intro week and a student discount make this feel doable on a tight budget, but I would still want to confirm the auto-renewal terms before putting any money down."
+94,B,2026-11-03T19:12:02.789Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-b.txt,6,yes,"6
+
+The free first class at Riverbend plus the $25 intro week at Ember fit my budget and lower the risk of trying something new, though I would want to check the auto-renewal and cancellation details before booking."
+95,B,2026-11-03T19:12:10.094Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-b.txt,6,yes,"6
+
+The free first class at Riverbend plus the $25 and $30 intro weeks fit my budget and let me try it with no commitment, though I would want to check the auto-renewal and cancellation details first."
+96,B,2026-11-03T19:12:17.404Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-b.txt,6,yes,"6
+
+The free first class at Riverbend plus the $25 and $30 intro weeks fit my budget and answer my main worry, though I would want to check that the intro offers do not auto-renew into a membership before I committed."
+97,B,2026-11-03T19:12:24.726Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-b.txt,6,yes,"6
+
+The free first class at Riverbend and the cheap intro weeks fit my budget, and the tip about trying them back to back for $55 makes it feel doable, though the auto-renewal warning and the need to book online make me slightly cautious."
+98,A,2026-11-03T19:12:32.045Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-a.txt,6,yes,"6
+
+The free first class at Riverbend and the stackable $55 plan for about three and a half weeks fit my budget well, though I would hesitate a bit over the auto-renew warning and the fact that the page is clearly a guide pushing me toward multiple sign-ups."
+99,B,2026-11-03T19:12:39.366Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-b.txt,6,yes,"6
+
+The free first class at Riverbend plus the $25 and $30 intro weeks fit my budget and answer exactly what I searched for, though I would want to confirm the auto-renewal terms before committing."
+100,A,2026-11-03T19:12:46.683Z,2026-11-03,Claude Sonnet 5.5,Medium (app default),claude.ai web, incognito chat,yes,ab-test/prompt-a.txt,6,yes,"6
+
+The free first class at Riverbend and the stackable intro offers (about $55 for three and a half weeks) fit my budget, but I would still have to commit to a specific class time and watch for auto-renewal, so I am interested rather than certain."
