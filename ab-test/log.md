@@ -17,3 +17,8 @@
 - No results were analyzed while the trials were running, nothing about the setup changed, and the run was not stopped early.
 - To keep the file readable, results.csv names the prompt file used for each trial instead of repeating the 3,800-character prompt in every row. The committed prompt files hold exactly the text that was sent.
 - The first commit of results.csv left a comma inside the interface column unquoted, which shifted the columns. A second commit on the same day quoted that field, and no trial data changed.
+
+## November 5, 2026, change after the trials
+
+- Version B (try-it-free-b.html) was given its own title tag and meta description, because the updated Deliverable 3 handout requires a unique title and description on every page and version B had copied version A's. The new title is "Free Hot Yoga in Iowa City, Test Version B | Heated."
+- This does not affect the results. The AI visitors were shown only the visible page text, which is unchanged, and the title tag and meta description were never part of the prompt.
