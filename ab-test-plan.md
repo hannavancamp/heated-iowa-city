@@ -1,34 +1,33 @@
-# A/B Test Plan, Free Hot Yoga Page
+# A/B Test Plan, Free Hot Yoga Page Headline
 
-MKTG:4400 Digital Marketing, Project Deliverable 3. Hanna Van Camp. Written and committed November 2, 2026, before any data was collected.
+MKTG:4400 Digital Marketing, Project Deliverable 3. Hanna Van Camp. Revised and committed November 6, 2026, before any data was collected for this test.
 
-## Page and element
+## Why this plan was revised
 
-The test runs on the free classes page (try-it-free.html), which targets "free hot yoga" queries. The single element being changed is the opening paragraph under the H1. Everything else on the page stays identical.
+My first plan, committed November 2, tested a rewrite of the page's opening paragraph. When I asked Professor Nozari to approve it, he replied on November 6 that the treatment was not clear, because a rewritten paragraph changes several things at once. I replaced it with this simpler test, where one headline changes and nothing else does. The first plan, its trials, and its results stay in the repository history and in ab-test/ as a record. They are not part of this test.
 
-**Version A (current page, try-it-free.html)** opens with the cost problem.
+## Page and treatment
 
-> A monthly membership is a lot to spend on something you have never tried. The good news is that every studio in the area wants new students, so there are several ways to take your first few classes for free or close to it.
+The test runs on the free classes page (try-it-free.html). The treatment is the page's main headline (the H1). Every other part of the page is identical in both versions.
 
-**Version B (try-it-free-b.html)** opens with the concrete offer.
+- **Version A (try-it-free.html)** keeps the current headline, "Free Hot Yoga in Iowa City."
+- **Version B (try-it-free-b.html)** changes it to "Free Hot Yoga in Iowa City for University of Iowa Students."
 
-> Your first hot yoga class in Iowa City can be completely free. Riverbend Heat Studio covers your first intro class, and the other two studios offer unlimited intro weeks for $25 and $30, so you can try heated yoga before you spend anything on a membership.
-
-The two paragraphs are close in length (44 and 46 words). Version B carries a noindex tag and a canonical tag pointing to version A, and it is left out of sitemap.xml, so it does not compete with version A in search.
+Version B carries a noindex tag and a canonical tag pointing to version A, and it is left out of sitemap.xml, so it does not compete with version A in search.
 
 ## Hypothesis
 
 Visitors shown version B will rate themselves more likely to book a free or intro class than visitors shown version A.
 
-The reasoning is that someone searching for free hot yoga has already decided cost is the barrier. Version A spends its opening restating that barrier and only promises that deals exist, while version B answers the question in the first sentence with a specific free class and specific prices. Putting the answer first should make the offer feel more real and lower the effort of acting on it. This prediction could be wrong. Version A's framing may feel more empathetic to a hesitant beginner, and the rest of the page already lists every offer, so the opening paragraph may not matter at all.
+The reasoning is that the visitors in this test are University of Iowa students on a budget. A headline that names them signals right away that the page was written for someone like them, which should make the offers feel more relevant and more worth acting on. This prediction could be wrong. The rest of the page is identical and holds all of the actual offers, so one line at the top may not change how the visitor feels about booking.
 
 ## Visitors, prompt, and assignment
 
-**Model.** Claude Sonnet 5.5 (model ID claude-sonnet-5-5) with default settings. The same model and settings are used for every trial.
+**Model.** Claude Sonnet 5.5, chosen in the claude.ai model menu, with the effort setting left at Medium, the app's recommended default. The same model and setting are used for every trial.
 
-**Fresh conversation.** Each trial runs in its own new session with no memory of any earlier trial.
+**Fresh conversation.** Each trial runs in its own new incognito chat in claude.ai. Incognito chats do not use saved memory and are not kept in chat history, so no trial can see any other trial.
 
-**Page shown.** The full visible text of the page (notice, header, navigation, hero, main content, and footer), extracted the same way for both versions. The only difference between the two page texts is the opening paragraph.
+**Page shown.** The full visible text of the page, taken the same way for both versions. The only difference between the two page texts is the headline line. The full prompts are saved as ab-test/headline/prompt-a.txt and ab-test/headline/prompt-b.txt.
 
 **Exact prompt, identical in every trial except for the page text.**
 
@@ -39,22 +38,20 @@ The reasoning is that someone searching for free hot yoga has already decided co
 > PAGE:
 > [full page text of version A or version B]
 
-**Assignment.** The order of versions was generated before any trial with Python's random module (seed 20261110), shuffling exactly 50 A and 50 B assignments. The list is committed alongside this plan as ab-test/assignments.csv, and trial N is run with the version listed in row N.
+**Assignment.** The order of versions was generated before any trial with Python's random module (seed 20261106), shuffling exactly 50 A and 50 B assignments. The list is committed as ab-test/headline/assignments.csv, and trial N is run with the version listed in row N. Versions are mixed throughout the run rather than running all of A first.
 
-## Primary outcome
+## Outcome
 
-The 1 to 7 rating on the first line of each response. A response that does not begin with a whole number from 1 to 7 is logged as invalid, kept in the raw data, and reported, not dropped silently.
+The 1 to 7 rating on the first line of each response. A response that does not begin with a whole number from 1 to 7 is logged as invalid, kept in the raw data, and reported, never rerun or dropped.
 
 ## Sample size and timing
 
-100 trials total, 50 per version. Data collection starts no later than Tuesday, November 10, 2026, and all 100 trials will be complete by Saturday, November 14, 2026. I will not look at results until all 100 trials are finished, and I will not stop early.
+100 trials total, 50 per version. Trials start only after Professor Nozari approves this design, and no later than Tuesday, November 17, 2026. All 100 trials run before any results are analyzed, and the run is not stopped early.
 
 ## Comparison and what counts as support
 
-The comparison is the mean rating in version B minus the mean rating in version A, tested with a two-sided Welch two-sample t-test at a significance level of 0.05. As a check on the skewed 1 to 7 scale, I will also report a Mann-Whitney U test, but the t-test is the primary result.
-
-The hypothesis is supported if version B's mean is higher than version A's and the t-test p-value is below 0.05. A difference in the other direction, or a p-value of 0.05 or above, means the test does not support the hypothesis, and I will report that as the result.
+The comparison is the mean rating in version B minus the mean rating in version A, tested with a two-sided Welch two-sample t-test (Google Sheets T.TEST with tails 2 and type 3) at a significance level of 0.05. The hypothesis is supported if version B's mean is higher and the p-value is below 0.05. A difference in the other direction, or a p-value of 0.05 or above, means the test does not support the hypothesis, and I will report that as the result.
 
 ## Records kept
 
-Every prompt, response, model version, and trial date goes into ab-test/results.csv (one row per trial), with any problems logged in ab-test/log.md with dates.
+Every response, the version shown, the model, and the date and time of each trial go into ab-test/headline/results.csv and a Google Sheet, one row per trial in trial order. Anything that goes wrong is logged with its date in ab-test/log.md.
