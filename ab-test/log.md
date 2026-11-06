@@ -22,3 +22,11 @@
 
 - Version B (try-it-free-b.html) was given its own title tag and meta description, because the updated Deliverable 3 handout requires a unique title and description on every page and version B had copied version A's. The new title is "Free Hot Yoga in Iowa City, Test Version B | Heated."
 - This does not affect the results. The AI visitors were shown only the visible page text, which is unchanged, and the title tag and meta description were never part of the prompt.
+
+## November 6, 2026, test redesigned before any new data
+
+- Professor Nozari replied to my approval request that the opening paragraph treatment was not clear, because a rewritten paragraph changes several things at once.
+- I replaced it with a headline-only test. Version B (try-it-free-b.html) now matches version A except for the H1, which reads "Free Hot Yoga in Iowa City for University of Iowa Students." The opening paragraph went back to version A's wording.
+- The revised ab-test-plan.md, a new random assignment list (ab-test/headline/assignments.csv, seed 20261106), and the exact prompts (ab-test/headline/prompt-a.txt and prompt-b.txt) were committed on November 6, before any trial of the new test.
+- The November 3 opening paragraph trials (ab-test/results.csv) belong to the first design only and are not part of the headline test. They stay in the repository as a record.
+- Trials for the headline test will start only after Professor Nozari approves the new design.
