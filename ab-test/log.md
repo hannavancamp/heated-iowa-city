@@ -42,3 +42,10 @@
 
 - Professor Nozari approved the no-membership headline treatment by email on November 9.
 - The headline trials run the same way as the first test. Each trial is a new incognito chat in claude.ai with Claude Sonnet 5.5 at the Medium effort setting, the prompt is pasted exactly as committed, and trials follow the order in ab-test/headline/assignments.csv. Results go to ab-test/headline/results.csv.
+
+## November 9, 2026, headline trial run
+
+- All 100 headline trials ran on November 9 in one batch, in the order of ab-test/headline/assignments.csv, starting at about 11.05 am Central Time and finishing about 12 minutes later. The exact time of each trial is in ab-test/headline/results.csv.
+- Before each send, the runner confirmed the model read Sonnet 5.5 Medium, the chat was incognito, and the message box matched the committed prompt exactly. Every trial used its own new chat.
+- All 100 answers began with a whole number from 1 to 7, so no trial was invalid, and none was rerun or dropped. The run was not stopped early, and nothing about the setup changed during it.
+- Observation recorded after the run, not a change to the data. The only ratings other than 6 were five ratings of 5, all in version B, all in trials 74 to 80, which ran within about two minutes of each other. None of those five answers mentions the headline or the no-membership wording. This clustering is reported as a possible short-lived shift in the model's answers and is kept in the data exactly as recorded.
