@@ -1,0 +1,293 @@
+trial,version,headline,timestamp_utc,date,model,effort,interface,prompt_file,rating,valid,response
+1,B,"Free Hot Yoga in Iowa City, No Membership Required",2026-11-09T17:05:11.719Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-b.txt",6,yes,"6
+
+The free first class at Riverbend plus the $25 and $30 intro weeks make it easy to try without a real commitment, though I would want to check for auto-renewal and late-cancel fees before signing up."
+2,A,"Free Hot Yoga in Iowa City",2026-11-09T17:05:19.002Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-a.txt",6,yes,"6
+
+The free first class at Riverbend plus the cheap stacked intro offers make this feel low-risk on a student budget, though I would hesitate a bit over the auto-renewal warning and the fact that I have never tried hot yoga."
+3,B,"Free Hot Yoga in Iowa City, No Membership Required",2026-11-09T17:05:26.309Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-b.txt",6,yes,"6
+
+The free first class at Riverbend and the $25 and $30 intro weeks are affordable enough that I would probably try at least the free one, but I would want to check the auto-renewal and cancellation fine print before committing."
+4,A,"Free Hot Yoga in Iowa City",2026-11-09T17:05:33.614Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-a.txt",6,yes,"6
+
+The free first class at Riverbend and the $25 intro week are exactly what a broke student wants, but I would stay cautious about auto-renewing offers and I am not sure I would actually follow through on booking."
+5,A,"Free Hot Yoga in Iowa City",2026-11-09T17:05:40.926Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-a.txt",6,yes,"6
+
+The free first class at Riverbend and the $25 intro week make this feel low-risk for a broke student, though I would want to check the auto-renewal fine print before giving anyone my card."
+6,B,"Free Hot Yoga in Iowa City, No Membership Required",2026-11-09T17:05:48.223Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-b.txt",6,yes,"6
+
+The free first class at Riverbend and the stacked intro offers (about $55 for three and a half weeks) fit my budget, but I would want to confirm the auto-renewal terms and that the free class does not require a card before I commit."
+7,A,"Free Hot Yoga in Iowa City",2026-11-09T17:05:55.530Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-a.txt",6,yes,"6
+
+The free first class at Riverbend plus the cheap stacked intro offers make this easy to try on a student budget, though the auto-renewal warning and the fact that I have never done hot yoga keep me from a 7."
+8,B,"Free Hot Yoga in Iowa City, No Membership Required",2026-11-09T17:06:03.343Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-b.txt",6,yes,"6
+
+The free first class at Riverbend, the cheap $25 intro week, and the $30 student discount at Ember all fit a tight budget, and the stepped plan for trying three studios makes it feel low-risk, though I would still want to check for auto-renewal before entering a card."
+9,B,"Free Hot Yoga in Iowa City, No Membership Required",2026-11-09T17:06:10.641Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-b.txt",6,yes,"6
+
+The free first class at Riverbend and the $25 intro week are exactly what a budget-conscious student wants, though the page’s disclosure that it is fictional and the lack of any real booking link keep me from a 7."
+10,A,"Free Hot Yoga in Iowa City",2026-11-09T17:06:17.934Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-a.txt",6,yes,"6
+
+The page lays out several free or $5-per-class options, including a free first class and a $55 plan covering about three and a half weeks, which fits a tight budget, though the auto-renewal warning and the need to book early make me a little cautious."
+11,B,"Free Hot Yoga in Iowa City, No Membership Required",2026-11-09T17:06:25.238Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-b.txt",6,yes,"6
+
+The free first class at Riverbend and the $25 intro week are exactly what a budget-limited student wants, though I would probably only book the free class and hold off on paying until I knew I liked it."
+12,A,"Free Hot Yoga in Iowa City",2026-11-09T17:06:32.548Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-a.txt",6,yes,"6
+
+The free first class at Riverbend and the $25 intro week fit a tight budget well, and the page makes it easy to see how to try a few studios cheaply, though the auto-renewal warning and the absence of any single standout offer keep me from feeling fully committed."
+13,B,"Free Hot Yoga in Iowa City, No Membership Required",2026-11-09T17:06:39.856Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-b.txt",6,yes,"6
+
+The free first class at Riverbend and the $25 intro week are within my budget, and the tip about stacking intro offers for about $55 total makes trying it feel low-risk, though the auto-renewal warning and the need to book early make me a little cautious."
+14,A,"Free Hot Yoga in Iowa City",2026-11-09T17:06:47.668Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-a.txt",6,yes,"6
+
+The page gives me several free or cheap ways to try it with no commitment (a free first class, a $25 intro week, free First Friday), which fits my budget, though the nudge to check for auto-renewal and late-cancel fees makes me a little wary of hidden costs."
+15,A,"Free Hot Yoga in Iowa City",2026-11-09T17:06:54.981Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-a.txt",6,yes,"6
+
+The page gives me several free or cheap ways to try it (a free first class, a $25 intro week, and a free monthly Friday class), which fits my budget, though the auto-renewal warning makes me a little cautious."
+16,B,"Free Hot Yoga in Iowa City, No Membership Required",2026-11-09T17:07:02.289Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-b.txt",6,yes,"6
+
+The free first class at Riverbend and the $25 and $30 intro weeks fit my budget, and the stacking tip makes it feel doable, but I would still have to pay at least $55 total to try more than one studio, and the auto-renewal warning makes me a little wary."
+17,B,"Free Hot Yoga in Iowa City, No Membership Required",2026-11-09T17:07:10.098Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-b.txt",6,yes,"6
+
+The free first class at Riverbend and the stackable intro offers ($55 total for about three and a half weeks) fit a tight budget well, though I would still need to confirm the auto-renewal terms and find a time that works around my class schedule before actually booking."
+18,A,"Free Hot Yoga in Iowa City",2026-11-09T17:07:17.393Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-a.txt",6,yes,"6
+
+The free first class at Riverbend and the $25 intro week make this low-risk for a broke student, though I would want to check for auto-renewal before giving anyone my card."
+19,A,"Free Hot Yoga in Iowa City",2026-11-09T17:07:24.703Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-a.txt",6,yes,"6
+
+The free first class at Riverbend and the $55 stacking plan for about three and a half weeks of classes make trying it feel low-risk on a student budget, though the auto-renewal warning and the fact that only one class is truly free keep me from a 7."
+20,B,"Free Hot Yoga in Iowa City, No Membership Required",2026-11-09T17:07:32.012Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-b.txt",6,yes,"6
+
+The free first class at Riverbend and the $25 and $30 intro weeks fit a tight budget, and the stacking plan is useful, but I would still have to pay for most of it, and the auto-renewal warning makes me a little wary."
+21,A,"Free Hot Yoga in Iowa City",2026-11-09T17:07:39.314Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-a.txt",6,yes,"6
+
+The free first class at Riverbend and the $55 plan for about three and a half weeks across three studios fit a tight budget, but I would still be nervous about auto-renewing offers and unsure I would enjoy the heat."
+22,B,"Free Hot Yoga in Iowa City, No Membership Required",2026-11-09T17:07:46.606Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-b.txt",6,yes,"6
+
+The free first class at Riverbend and the $25 and $30 intro weeks fit my budget, and the stacking tip makes it feel doable, but I would still want to check the auto-renewal terms before handing over a card."
+23,A,"Free Hot Yoga in Iowa City",2026-11-09T17:07:53.913Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-a.txt",6,yes,"6
+
+The free first class at Riverbend and the $55 plan to try three studios over about three and a half weeks fit my budget well, though I would still be a little nervous about auto-renewing offers and about never having tried hot yoga before."
+24,B,"Free Hot Yoga in Iowa City, No Membership Required",2026-11-09T17:08:01.263Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-b.txt",6,yes,"6
+The first class at Riverbend is free with no membership, and the stacked intro offers plus the Free First Friday make it easy to try hot yoga for little or nothing, though I would still need to watch for auto-renewal and late-cancel fees."
+25,B,"Free Hot Yoga in Iowa City, No Membership Required",2026-11-09T17:08:08.565Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-b.txt",6,yes,"6
+
+The free first class at Riverbend and the stacked intro offers (about $55 for three and a half weeks) make trying it feel low-risk on a student budget, though I would still want to check for auto-renewal before signing up."
+26,A,"Free Hot Yoga in Iowa City",2026-11-09T17:08:16.392Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-a.txt",6,yes,"6
+
+The free first class at Riverbend and the cheap stacked intro offers (about $55 for three and a half weeks) fit a student budget well, but the free community class and the student discount are less appealing to me since I would still have to commit to a studio or schedule, so I would probably book the free one without being certain."
+27,B,"Free Hot Yoga in Iowa City, No Membership Required",2026-11-09T17:08:23.670Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-b.txt",6,yes,"6
+
+The free first class at Riverbend and the stackable intro offers (about $55 for three and a half weeks) fit my budget well, though the auto-renewal warning and the fact that only one studio gives a truly free class keep me from being fully sold."
+28,B,"Free Hot Yoga in Iowa City, No Membership Required",2026-11-09T17:08:30.975Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-b.txt",6,yes,"6
+
+The free first class at Riverbend and the $25 intro week make it easy to try without much risk, though the auto-renewal and late-cancel warnings make me want to read the fine print before I commit."
+29,B,"Free Hot Yoga in Iowa City, No Membership Required",2026-11-09T17:08:38.272Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-b.txt",6,yes,"6
+
+The free first class at Riverbend and the stackable intro offers (about $55 for three and a half weeks) fit a tight budget well, but I would still hesitate a bit over the cost after the free class and the risk of auto-renewing into a membership."
+30,B,"Free Hot Yoga in Iowa City, No Membership Required",2026-11-09T17:08:45.568Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-b.txt",6,yes,"6
+
+The free first class at Riverbend and the $25 and $30 intro weeks fit my budget, and the sequencing tip makes it feel doable, though I would want to check the auto-renewal fine print before committing."
+31,A,"Free Hot Yoga in Iowa City",2026-11-09T17:08:52.861Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-a.txt",6,yes,"6
+
+The free first class at Riverbend and the cheap $25 intro week fit a tight budget well, though I would still hesitate a bit over auto-renewal risks and the fact that the free community classes are only monthly."
+32,B,"Free Hot Yoga in Iowa City, No Membership Required",2026-11-09T17:09:00.169Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-b.txt",6,yes,"6
+
+The free first class at Riverbend and the $55 plan to sample three studios over about three and a half weeks fit a tight budget well, but I would still hesitate a bit over the auto-renew risk and the fact that most of the free options are limited to specific days or times."
+33,B,"Free Hot Yoga in Iowa City, No Membership Required",2026-11-09T17:09:07.479Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-b.txt",6,yes,"6
+
+The free first class at Riverbend and the $55 plan covering about three and a half weeks of classes make this feel low-risk for my budget, though I would still want to check the auto-renewal and cancellation details before booking anything."
+34,B,"Free Hot Yoga in Iowa City, No Membership Required",2026-11-09T17:09:14.809Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-b.txt",6,yes,"6
+
+The free first class at Riverbend and the stacked intro offers (about $55 for three and a half weeks) make it easy to try without a big commitment, though I would still have to watch for auto-renewal and late-cancel fees on a tight budget."
+35,B,"Free Hot Yoga in Iowa City, No Membership Required",2026-11-09T17:09:22.608Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-b.txt",6,yes,"6
+
+The free first class at Riverbend and the stackable intro offers (about $55 for three and a half weeks) fit a tight budget well, though I would hesitate a bit over the auto-renewal warning and the fact that only one class is truly free."
+36,A,"Free Hot Yoga in Iowa City",2026-11-09T17:09:29.915Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-a.txt",6,yes,"6
+
+The free first class at Riverbend plus the $55 stacked-offer plan makes this easy for a broke student to try, though I would want to confirm the auto-renewal and cancellation details before putting in my card."
+37,A,"Free Hot Yoga in Iowa City",2026-11-09T17:09:37.217Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-a.txt",6,yes,"6
+
+The free first class at Riverbend and the $55 plan for about three and a half weeks across three studios are exactly what a broke student wants, though the auto-renew warning and the fact that the free class only covers one session keep me from a 7."
+38,A,"Free Hot Yoga in Iowa City",2026-11-09T17:09:44.505Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-a.txt",6,yes,"6
+
+The free first class at Riverbend and the stackable intro offers ($55 for about three and a half weeks) fit a tight budget well, though the auto-renew warning and the fact that most deals still cost money keep me from a 7."
+39,B,"Free Hot Yoga in Iowa City, No Membership Required",2026-11-09T17:09:51.825Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-b.txt",6,yes,"6
+
+The free first class at Riverbend and the stacked intro offers for about $55 total make it easy to try without much risk, though I would want to check the auto-renewal and cancellation terms before committing."
+40,B,"Free Hot Yoga in Iowa City, No Membership Required",2026-11-09T17:09:59.118Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-b.txt",6,yes,"6
+
+The free first class at Riverbend and the $55 stacked-intro plan fit my budget and make trying it low-risk, though I would still want to check the auto-renewal and cancellation terms before booking."
+41,B,"Free Hot Yoga in Iowa City, No Membership Required",2026-11-09T17:10:06.453Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-b.txt",6,yes,"6
+
+The free first class at Riverbend and the free First Friday class make it easy to try without spending anything, though the page is clear that most other options cost $25 to $30, and I would still want to check for auto-renewal before giving anyone my card."
+42,A,"Free Hot Yoga in Iowa City",2026-11-09T17:10:13.753Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-a.txt",6,yes,"6
+
+The free first class at Riverbend and the stackable intro offers ($55 for about three and a half weeks) fit a student budget well, though I would still want to check the auto-renew terms before giving anyone my card."
+43,A,"Free Hot Yoga in Iowa City",2026-11-09T17:10:21.074Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-a.txt",6,yes,"6
+
+The free first class at Riverbend and the $25 intro week are exactly what a broke student wants, though I would still want to check the auto-renew terms before giving anyone my card."
+44,B,"Free Hot Yoga in Iowa City, No Membership Required",2026-11-09T17:10:28.381Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-b.txt",6,yes,"6
+
+The free first class at Riverbend and the stacked intro offers (about $55 for three and a half weeks) make trying it feel low-risk on a student budget, though I would still want to check the auto-renewal and cancellation details before booking."
+45,B,"Free Hot Yoga in Iowa City, No Membership Required",2026-11-09T17:10:35.676Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-b.txt",6,yes,"6
+
+The free first class at Riverbend and the stacked intro offers (about $55 for three and a half weeks) make trying it feel low-risk on a student budget, though I would want to check the auto-renewal and cancellation details before committing."
+46,A,"Free Hot Yoga in Iowa City",2026-11-09T17:10:42.984Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-a.txt",6,yes,"6
+
+The page lays out several free or cheap ways to try hot yoga, including a free first class and a $25 intro week, and that fits my budget, though I would want to check the auto-renewal terms before booking anything."
+47,B,"Free Hot Yoga in Iowa City, No Membership Required",2026-11-09T17:10:50.294Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-b.txt",6,yes,"6
+
+The free first class at Riverbend and the $55 plan covering about three and a half weeks make this feel low-risk for a broke student, though I would still need to check the auto-renewal and cancellation terms before committing."
+48,A,"Free Hot Yoga in Iowa City",2026-11-09T17:10:57.607Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-a.txt",6,yes,"6
+
+The free first class at Riverbend, the $25 intro week, and the stacking plan for about $55 total speak directly to my budget worry, though I would still want to confirm the auto-renewal details before entering a card."
+49,A,"Free Hot Yoga in Iowa City",2026-11-09T17:11:04.918Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-a.txt",6,yes,"6
+
+The free first class at Riverbend and the $25 intro week make this feel low-risk for a broke student, though I would want to confirm the auto-renewal terms before handing over a card."
+50,B,"Free Hot Yoga in Iowa City, No Membership Required",2026-11-09T17:11:12.725Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-b.txt",6,yes,"6
+The free first class at Riverbend and the stackable intro offers (about $55 for three and a half weeks) fit my budget well, though I would still hesitate a bit over the auto-renewal risk and the $25 to $30 upfront cost of the paid intros."
+51,B,"Free Hot Yoga in Iowa City, No Membership Required",2026-11-09T17:11:20.547Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-b.txt",6,yes,"6
+The free first class at Riverbend plus the $5-ish intro options and the student discount make this feel low-risk on my budget, though the auto-renewal warning and the fact that only one studio is truly free keep me from a 7."
+52,A,"Free Hot Yoga in Iowa City",2026-11-09T17:11:27.864Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-a.txt",6,yes,"6
+
+The free first class at Riverbend and the $25 intro week make this feel low-risk for a broke student, though I would want to confirm the auto-renewal terms before handing over a card."
+53,B,"Free Hot Yoga in Iowa City, No Membership Required",2026-11-09T17:11:35.176Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-b.txt",6,yes,"6
+The free first class at Riverbend and the stacked intro offers (about $55 for three and a half weeks) fit my budget well, though the auto-renewal warning and the need to book ahead keep me from a 7."
+54,A,"Free Hot Yoga in Iowa City",2026-11-09T17:11:42.468Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-a.txt",6,yes,"6
+
+The free first class at Riverbend and the $25 intro week at Ember fit a tight budget well, though I would still want to check for auto-renewal and cancellation fees before booking anything."
+55,A,"Free Hot Yoga in Iowa City",2026-11-09T17:11:49.795Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-a.txt",6,yes,"6
+
+The free first class at Riverbend and the $25 intro week make this feel low-risk for a tight budget, though I would want to confirm the auto-renewal and cancellation details before giving anyone my card."
+56,A,"Free Hot Yoga in Iowa City",2026-11-09T17:11:57.111Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-a.txt",6,yes,"6
+
+The free first class at Riverbend and the $25 intro week make it easy to try without much risk, though I would still want to check whether the offers auto-renew into a paid membership before I enter my card."
+57,A,"Free Hot Yoga in Iowa City",2026-11-09T17:12:04.436Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-a.txt",6,yes,"6
+
+The free first class at Riverbend and the $25 intro week make this feel low-risk for a broke student, though I would still want to check the auto-renewal terms and the schedule before actually booking."
+58,A,"Free Hot Yoga in Iowa City",2026-11-09T17:12:11.753Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-a.txt",6,yes,"6
+
+Free first class at Riverbend plus cheap intro weeks and a $5-ish Sunday donation class make this low-risk for my budget, though I would want to check the auto-renewal and cancellation details before committing to the paid offers."
+59,A,"Free Hot Yoga in Iowa City",2026-11-09T17:12:19.070Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-a.txt",6,yes,"6
+
+The free first class at Riverbend and the $25 intro week at Ember fit my budget and let me try it with almost no risk, though the auto-renewal warning and the need to book ahead make me a little cautious about committing."
+60,B,"Free Hot Yoga in Iowa City, No Membership Required",2026-11-09T17:12:26.398Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-b.txt",6,yes,"6
+The free first class at Riverbend and the $55 plan for about three and a half weeks across three studios fit my budget, though the auto-renewal warning and the fact that only one class is truly free keep me from a 7."
+61,A,"Free Hot Yoga in Iowa City",2026-11-09T17:12:33.737Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-a.txt",6,yes,"6
+
+The free first class at Riverbend and the $25 intro week are exactly what a broke student wants, and the stacking plan makes trying it feel low-risk, though I would still worry about auto-renewal and the effort of juggling three studios."
+62,A,"Free Hot Yoga in Iowa City",2026-11-09T17:12:41.037Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-a.txt",6,yes,"6
+
+The free first class at Riverbend and the $25 intro week make it easy to try without a big commitment, but I would still need to check the auto-renewal and cancellation terms before booking anything."
+63,B,"Free Hot Yoga in Iowa City, No Membership Required",2026-11-09T17:12:48.328Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-b.txt",6,yes,"6
+The free first class at Riverbend and the stackable intro offers (about $55 for three and a half weeks) make trying it feel low-risk on my budget, though I would still want to check for auto-renewal before signing up."
+64,B,"Free Hot Yoga in Iowa City, No Membership Required",2026-11-09T17:12:55.619Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-b.txt",6,yes,"6
+The free first class at Riverbend and the stacked intro offers (about $55 for three and a half weeks) make trying it feel low-risk on a student budget, though I would still want to check the auto-renew terms before signing up."
+65,B,"Free Hot Yoga in Iowa City, No Membership Required",2026-11-09T17:13:02.938Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-b.txt",6,yes,"6
+
+The free first class at Riverbend and the $25 intro week are exactly what a broke student wants, though I would still be wary of auto-renewing offers and unsure whether I would actually like it."
+66,A,"Free Hot Yoga in Iowa City",2026-11-09T17:13:10.250Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-a.txt",6,yes,"6
+
+The free first class at Riverbend and the stackable intro offers (about $55 for three and a half weeks) fit my budget, though the auto-renew warning makes me a little wary and I would want to confirm the actual details before booking."
+67,B,"Free Hot Yoga in Iowa City, No Membership Required",2026-11-09T17:13:17.578Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-b.txt",6,yes,"6
+
+The free first class at Riverbend and the $25 and $30 intro weeks make trying it feel low-risk on my budget, though the page is clearly pushing a path of stacking offers, and I would want to check the auto-renewal fine print before giving any studio my card."
+68,A,"Free Hot Yoga in Iowa City",2026-11-09T17:13:24.889Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-a.txt",6,yes,"6
+
+The free first class at Riverbend and the stackable intro offers (about $55 for three and a half weeks) fit a tight budget, though I would hesitate a bit over the auto-renewal risk and the fact that the cheapest options still require paying something after the first class."
+69,A,"Free Hot Yoga in Iowa City",2026-11-09T17:13:32.191Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-a.txt",6,yes,"6
+
+The free first class at Riverbend and the stackable intro offers (about $55 for three and a half weeks) fit a tight budget well, though I would still need to check the auto-renewal and cancellation fine print before committing."
+70,B,"Free Hot Yoga in Iowa City, No Membership Required",2026-11-09T17:13:39.512Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-b.txt",6,yes,"6
+
+The free first class at Riverbend and the $25 and $30 intro weeks fit a tight budget, and the stacking tip makes trying it feel low-risk, but I would still be wary of auto-renewing offers and cancellation fees."
+71,B,"Free Hot Yoga in Iowa City, No Membership Required",2026-11-09T17:13:46.852Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-b.txt",6,yes,"6
+
+The free first class at Riverbend and the $25 intro week make this feel low-risk on a student budget, though I would want to check the auto-renewal and cancellation details before committing."
+72,B,"Free Hot Yoga in Iowa City, No Membership Required",2026-11-09T17:13:54.171Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-b.txt",6,yes,"6
+
+The free first class at Riverbend and the $25 intro week are a low-risk way to try it on a student budget, though I would want to confirm the auto-renewal terms before entering a card."
+73,A,"Free Hot Yoga in Iowa City",2026-11-09T17:14:01.485Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-a.txt",6,yes,"6
+
+The free first class at Riverbend and the $25 intro week are exactly what a broke student wants, but I would not book until I confirmed the intro offers do not auto-renew into a membership."
+74,B,"Free Hot Yoga in Iowa City, No Membership Required",2026-11-09T17:14:08.794Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-b.txt",5,yes,"5
+
+The free first class at Riverbend and the $25 intro week make this feel low-risk on my budget, but the page is mostly a roundup of offers, so I would still want to check the actual studio details before committing."
+75,B,"Free Hot Yoga in Iowa City, No Membership Required",2026-11-09T17:14:16.111Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-b.txt",6,yes,"6
+
+Riverbend’s free first class and the $25 intro week fit a tight budget and take the fear out of trying something new, though I would hesitate a bit over the auto-renewal and late-cancel fine print."
+76,B,"Free Hot Yoga in Iowa City, No Membership Required",2026-11-09T17:14:23.910Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-b.txt",5,yes,"5
+
+The free first class at Riverbend and the $25 intro week make this feel low-risk on a tight budget, but the free offer is a single class, the cheapest multi-class options still cost $25 to $30, and the auto-renewal warning makes me a little wary of committing."
+77,B,"Free Hot Yoga in Iowa City, No Membership Required",2026-11-09T17:14:31.226Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-b.txt",5,yes,"5
+
+The free first class at Riverbend and the $25 and $30 intro weeks fit a tight budget and make trying it low-risk, but I would want to check the auto-renewal and cancellation details first, and the free outdoor and donation classes are not all heated or easy to fit into a student schedule."
+78,A,"Free Hot Yoga in Iowa City",2026-11-09T17:14:38.541Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-a.txt",6,yes,"6
+
+The free first class at Riverbend and the stackable intro offers (about $55 for three and a half weeks) fit a tight budget well, but I would still want to confirm the auto-renewal terms before entering my card."
+79,B,"Free Hot Yoga in Iowa City, No Membership Required",2026-11-09T17:14:45.852Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-b.txt",5,yes,"5
+
+The free first class at Riverbend and the $25 intro week make it easy to try without a big commitment, but I would still want to check the cancellation and auto-renew details first, and I am not sure I would pick a class time that fits my schedule."
+80,B,"Free Hot Yoga in Iowa City, No Membership Required",2026-11-09T17:14:53.171Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-b.txt",5,yes,"5
+
+The free first class at Riverbend and the sequence of cheap intro offers are appealing for a broke student, but I would still hesitate over the auto-renewal risk and the fact that the best budget options (donation and First Friday classes) are limited to specific days and times."
+81,A,"Free Hot Yoga in Iowa City",2026-11-09T17:15:00.468Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-a.txt",6,yes,"6
+
+The free first class at Riverbend plus the cheap stacked intro offers fit my budget well, but the auto-renewal warning and the fact that only one class is truly free keep me from a 7."
+82,A,"Free Hot Yoga in Iowa City",2026-11-09T17:15:07.757Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-a.txt",6,yes,"6
+
+The free first class at Riverbend and the $25 intro week are exactly what a broke student wants, and the stacking plan makes trying it feel low-risk, though I would still worry about auto-renewing offers and late-cancel fees."
+83,B,"Free Hot Yoga in Iowa City, No Membership Required",2026-11-09T17:15:15.069Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-b.txt",6,yes,"6
+
+The first class at Riverbend is free and the stacked intro offers total about $55 for three and a half weeks, which fits a student budget, though I would still want to confirm the auto-renewal terms before entering my card."
+84,A,"Free Hot Yoga in Iowa City",2026-11-09T17:15:22.885Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-a.txt",6,yes,"6
+
+The free first class at Riverbend and the stackable intro offers ($55 for about three and a half weeks) fit a tight budget well, though I would hesitate a little over the auto-renewal warning and the fact that the free community and outdoor options are limited or not heated."
+85,A,"Free Hot Yoga in Iowa City",2026-11-09T17:15:30.196Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-a.txt",6,yes,"6
+
+The free first class at Riverbend and the stackable intro offers (about $55 for three and a half weeks) fit a tight budget well, though I would still need to check auto-renewal and the fact that the best deals are one-time only."
+86,A,"Free Hot Yoga in Iowa City",2026-11-09T17:15:37.508Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-a.txt",6,yes,"6
+
+The free first class at Riverbend, the $25 intro week, and the free First Friday class all fit a tight budget and make it easy to try hot yoga without committing, though I would want to check the auto-renewal and cancellation details first."
+87,A,"Free Hot Yoga in Iowa City",2026-11-09T17:15:44.799Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-a.txt",6,yes,"6
+
+The free first class at Riverbend and the $55 plan to try three studios in about three and a half weeks are exactly what a broke student wants, though the sequencing feels like a lot of effort and I would still want to check for auto-renewal traps before entering my card."
+88,B,"Free Hot Yoga in Iowa City, No Membership Required",2026-11-09T17:15:52.078Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-b.txt",6,yes,"6
+
+The free first class at Riverbend and the $55 plan for three and a half weeks across all three studios make it easy to try without a big commitment, though I would still want to check that nothing auto-renews into a membership before I give my card number."
+89,A,"Free Hot Yoga in Iowa City",2026-11-09T17:15:59.401Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-a.txt",6,yes,"6
+
+The free first class at Riverbend plus the cheap stacked intro offers make this feel low-risk on my budget, though the auto-renew warning and the need to chain three studios to get real value keep me from a 7."
+90,B,"Free Hot Yoga in Iowa City, No Membership Required",2026-11-09T17:16:07.208Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-b.txt",6,yes,"6
+
+The free first class at Riverbend and the stackable intro offers (about $55 for three and a half weeks) make this feel low-risk on a student budget, though I would not be fully sold until I knew the class times fit my schedule and whether the intro offers auto-renew."
+91,A,"Free Hot Yoga in Iowa City",2026-11-09T17:16:14.513Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-a.txt",6,yes,"6
+
+The free first class at Riverbend and the $25 intro week make this feel low-risk for a tight budget, though the auto-renewal warning and the fact that I would have to book and show up somewhere unfamiliar keep me from a 7."
+92,B,"Free Hot Yoga in Iowa City, No Membership Required",2026-11-09T17:16:21.826Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-b.txt",6,yes,"6
+
+The free first class at Riverbend and the $55 plan to try three studios back to back are exactly what I need on a tight budget, though I would still hesitate over the auto-renewal warning and the fact that I have never been in a heated room."
+93,A,"Free Hot Yoga in Iowa City",2026-11-09T17:16:29.128Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-a.txt",6,yes,"6
+
+The free first class at Riverbend and the $25 intro week make it easy to try without much risk, though I would still want to check the auto-renewal and cancellation details before I give anyone my card."
+94,B,"Free Hot Yoga in Iowa City, No Membership Required",2026-11-09T17:16:36.945Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-b.txt",6,yes,"6
+
+The free first class at Riverbend and the stackable intro offers ($55 for about three and a half weeks) fit my budget, but I would still have to pay after the free class, and the auto-renewal warning makes me a little wary."
+95,A,"Free Hot Yoga in Iowa City",2026-11-09T17:16:44.249Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-a.txt",6,yes,"6
+
+The free first class at Riverbend and the $25 intro week make it easy to try without real risk, though I would still want to check the cancellation and auto-renewal details before entering a card."
+96,A,"Free Hot Yoga in Iowa City",2026-11-09T17:16:51.560Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-a.txt",6,yes,"6
+
+The free first class at Riverbend and the $25 intro week make it easy to try without much risk, though I would still want to check for auto-renewal and cancellation terms before booking anything."
+97,A,"Free Hot Yoga in Iowa City",2026-11-09T17:16:58.858Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-a.txt",6,yes,"6
+
+The free first class at Riverbend plus the $25 intro week and the cheap community classes make this feel low-risk on a student budget, though I would want to check the auto-renewal and cancellation details before committing."
+98,A,"Free Hot Yoga in Iowa City",2026-11-09T17:17:06.168Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-a.txt",6,yes,"6
+
+The free first class at Riverbend and the $55 plan for about three and a half weeks of classes fit my budget well, but I would still need to track auto-renewals and cancellation policies, and I am not yet sure I would like hot yoga enough to commit."
+99,A,"Free Hot Yoga in Iowa City",2026-11-09T17:17:13.480Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-a.txt",6,yes,"6
+
+The free first class at Riverbend and the stackable intro offers (about $55 for three and a half weeks) fit my budget well, though I would still want to check for auto-renewal and cancellation fees before committing."
+100,B,"Free Hot Yoga in Iowa City, No Membership Required",2026-11-09T17:17:20.796Z,2026-11-09,"Claude Sonnet 5.5","Medium (app default)","claude.ai web, new incognito chat","ab-test/headline/prompt-b.txt",6,yes,"6
+The free first class at Riverbend and the $25 and $30 intro weeks fit my budget, and the tip to stack the offers for about $55 total is convincing, though I would hesitate a little over the auto-renewal warning and the fact that the page is a guide rather than a studio’s own booking page."
