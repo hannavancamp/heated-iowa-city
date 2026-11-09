@@ -30,3 +30,10 @@
 - The revised ab-test-plan.md, a new random assignment list (ab-test/headline/assignments.csv, seed 20261106), and the exact prompts (ab-test/headline/prompt-a.txt and prompt-b.txt) were committed on November 6, before any trial of the new test.
 - The November 3 opening paragraph trials (ab-test/results.csv) belong to the first design only and are not part of the headline test. They stay in the repository as a record.
 - Trials for the headline test will start only after Professor Nozari approves the new design.
+
+## November 9, 2026, headline treatment revised before any data
+
+- Professor Nozari replied that "for University of Iowa Students" adds no new information, because "Iowa City" in the control headline already includes those students, and suggested a treatment that adds information the control does not have.
+- Version B's headline now reads "Free Hot Yoga in Iowa City, No Membership Required." This is true on the page, since the free first class does not require a membership. ab-test-plan.md and ab-test/headline/prompt-b.txt were updated to match. The assignment list from November 6 is unchanged and still unused.
+- The plan was due before November 9. This revision lands on November 9 only because it responds to his November 9 feedback on the version committed November 6.
+- No trials of the headline test have run. They will start after Professor Nozari approves this treatment.
