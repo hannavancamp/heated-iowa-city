@@ -1,17 +1,19 @@
 # A/B Test Plan, Free Hot Yoga Page Headline
 
-MKTG:4400 Digital Marketing, Project Deliverable 3. Hanna Van Camp. Revised and committed November 6, 2026, before any data was collected for this test.
+MKTG:4400 Digital Marketing, Project Deliverable 3. Hanna Van Camp. Revised November 6 and again November 9, 2026, before any data was collected for this test.
 
 ## Why this plan was revised
 
-My first plan, committed November 2, tested a rewrite of the page's opening paragraph. When I asked Professor Nozari to approve it, he replied on November 6 that the treatment was not clear, because a rewritten paragraph changes several things at once. I replaced it with this simpler test, where one headline changes and nothing else does. The first plan, its trials, and its results stay in the repository history and in ab-test/ as a record. They are not part of this test.
+My first plan, committed November 2, tested a rewrite of the page's opening paragraph. When I asked Professor Nozari to approve it, he replied on November 6 that the treatment was not clear, because a rewritten paragraph changes several things at once. I replaced it with a headline test. My first headline treatment added "for University of Iowa Students," and on November 9 Professor Nozari pointed out that this adds no new information, because "Iowa City" in the control headline already includes those students. The treatment below instead adds information the control headline does not contain. The first plan, its trials, and its results stay in the repository history and in ab-test/ as a record. They are not part of this test.
 
 ## Page and treatment
 
 The test runs on the free classes page (try-it-free.html). The treatment is the page's main headline (the H1). Every other part of the page is identical in both versions.
 
 - **Version A (try-it-free.html)** keeps the current headline, "Free Hot Yoga in Iowa City."
-- **Version B (try-it-free-b.html)** changes it to "Free Hot Yoga in Iowa City for University of Iowa Students."
+- **Version B (try-it-free-b.html)** changes it to "Free Hot Yoga in Iowa City, No Membership Required."
+
+The added information is true on the page, since the free first class at Riverbend Heat Studio does not require a membership.
 
 Version B carries a noindex tag and a canonical tag pointing to version A, and it is left out of sitemap.xml, so it does not compete with version A in search.
 
@@ -19,7 +21,7 @@ Version B carries a noindex tag and a canonical tag pointing to version A, and i
 
 Visitors shown version B will rate themselves more likely to book a free or intro class than visitors shown version A.
 
-The reasoning is that the visitors in this test are University of Iowa students on a budget. A headline that names them signals right away that the page was written for someone like them, which should make the offers feel more relevant and more worth acting on. This prediction could be wrong. The rest of the page is identical and holds all of the actual offers, so one line at the top may not change how the visitor feels about booking.
+The reasoning comes from my earlier test of this page on November 3. In 95 of 100 answers, AI visitors mentioned wanting to check whether an intro offer renews into a paid membership before booking, and it was the reason most often given for not choosing the top rating. If fear of commitment is the main barrier, a headline that removes it up front should make booking feel safer. This prediction could be wrong. The page's warning about auto-renewing offers is still present in both versions, so one line in the headline may not outweigh it.
 
 ## Visitors, prompt, and assignment
 
