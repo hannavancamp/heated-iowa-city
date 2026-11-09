@@ -37,3 +37,8 @@
 - Version B's headline now reads "Free Hot Yoga in Iowa City, No Membership Required." This is true on the page, since the free first class does not require a membership. ab-test-plan.md and ab-test/headline/prompt-b.txt were updated to match. The assignment list from November 6 is unchanged and still unused.
 - The plan was due before November 9. This revision lands on November 9 only because it responds to his November 9 feedback on the version committed November 6.
 - No trials of the headline test have run. They will start after Professor Nozari approves this treatment.
+
+## November 9, 2026, approval recorded before trial 1
+
+- Professor Nozari approved the no-membership headline treatment by email on November 9.
+- The headline trials run the same way as the first test. Each trial is a new incognito chat in claude.ai with Claude Sonnet 5.5 at the Medium effort setting, the prompt is pasted exactly as committed, and trials follow the order in ab-test/headline/assignments.csv. Results go to ab-test/headline/results.csv.
